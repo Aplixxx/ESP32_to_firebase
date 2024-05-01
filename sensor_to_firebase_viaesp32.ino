@@ -12,8 +12,8 @@ DHT dht_sensor(DHT_SENSOR_PIN, DHT_SENSOR_TYPE);
 
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
-#define WIFI_SSID "Aranyak’s iPhone"
-#define WIFI_PASSWORD "210497Bdk"
+#define WIFI_SSID "wifi" //add wifi ssid
+#define WIFI_PASSWORD "password" //add wifi password
 
 #define API_KEY "AIzaSyCVbBy_T-Cs78XlRQEbqn60AOPCyuKEn04"
 #define DATABASE_URL "https://agrobot-832c9-default-rtdb.asia-southeast1.firebasedatabase.app/" 
